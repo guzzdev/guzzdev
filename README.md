@@ -2,7 +2,7 @@
 
   
 ## 🚀 About Me
-I'm a full stack developer from Lyon!
+I'm a full stack web developer from Lyon!
 Student at Epitech
 
   
