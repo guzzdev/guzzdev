@@ -2,9 +2,7 @@
 
   
 ## 🚀 About Me
-I'm a full stack web developer from Lyon!
-Student at Epitech
-
+I'm a full stack web developer student !
   
 ## 🛠 Skills
 Javascript, React, Python, PHP, HTML, CSS,  Postgres, SQL, NoSQL
